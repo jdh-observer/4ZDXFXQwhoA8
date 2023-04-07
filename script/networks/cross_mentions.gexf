@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-10-05">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Alexandre Lamfalussy" label="Alexandre Lamfalussy" />
+      <node id="Carlo Azeglio Ciampi" label="Carlo Azeglio Ciampi" />
+      <node id="Demetrios Chalikias" label="Demetrios Chalikias" />
+      <node id="Erik Hoffmeyer" label="Erik Hoffmeyer" />
+      <node id="Frans Andriessen" label="Frans Andriessen" />
+      <node id="Jacques Delors" label="Jacques Delors" />
+      <node id="Jacques de Larosière" label="Jacques de Larosière" />
+      <node id="Jean Godeaux" label="Jean Godeaux" />
+      <node id="José Alberto Tavares Moreira" label="José Alberto Tavares Moreira" />
+      <node id="Karl Otto Pöhl" label="Karl Otto Pöhl" />
+      <node id="Mariano Rubio" label="Mariano Rubio" />
+      <node id="Maurice F. Doyle" label="Maurice F. Doyle" />
+      <node id="Miguel Boyer" label="Miguel Boyer" />
+      <node id="Niels Thygesen" label="Niels Thygesen" />
+      <node id="Pierre Jaans" label="Pierre Jaans" />
+      <node id="Robin Leigh-Pemberton" label="Robin Leigh-Pemberton" />
+      <node id="Wim Duisenberg" label="Wim Duisenberg" />
+    </nodes>
+    <edges>
+      <edge source="Alexandre Lamfalussy" target="Alexandre Lamfalussy" id="0" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Carlo Azeglio Ciampi" id="1" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Demetrios Chalikias" id="2" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Erik Hoffmeyer" id="3" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Frans Andriessen" id="4" weight="1" />
+      <edge source="Alexandre Lamfalussy" target="Jacques Delors" id="5" weight="3" />
+      <edge source="Alexandre Lamfalussy" target="Jacques de Larosière" id="6" weight="3" />
+      <edge source="Alexandre Lamfalussy" target="Jean Godeaux" id="7" weight="1" />
+      <edge source="Alexandre Lamfalussy" target="José Alberto Tavares Moreira" id="8" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Karl Otto Pöhl" id="9" weight="1" />
+      <edge source="Alexandre Lamfalussy" target="Mariano Rubio" id="10" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Maurice F. Doyle" id="11" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Miguel Boyer" id="12" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Niels Thygesen" id="13" weight="0" />
+      <edge source="Alexandre Lamfalussy" target="Pierre Jaans" id="14" weight="1" />
+      <edge source="Alexandre Lamfalussy" target="Robin Leigh-Pemberton" id="15" weight="2" />
+      <edge source="Alexandre Lamfalussy" target="Wim Duisenberg" id="16" weight="3" />
+      <edge source="Carlo Azeglio Ciampi" target="Carlo Azeglio Ciampi" id="17" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Demetrios Chalikias" id="18" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Erik Hoffmeyer" id="19" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Frans Andriessen" id="20" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Jacques Delors" id="21" weight="1" />
+      <edge source="Carlo Azeglio Ciampi" target="Jacques de Larosière" id="22" weight="2" />
+      <edge source="Carlo Azeglio Ciampi" target="Jean Godeaux" id="23" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="José Alberto Tavares Moreira" id="24" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Karl Otto Pöhl" id="25" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Mariano Rubio" id="26" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Maurice F. Doyle" id="27" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Miguel Boyer" id="28" weight="2" />
+      <edge source="Carlo Azeglio Ciampi" target="Niels Thygesen" id="29" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Pierre Jaans" id="30" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Robin Leigh-Pemberton" id="31" weight="0" />
+      <edge source="Carlo Azeglio Ciampi" target="Wim Duisenberg" id="32" weight="0" />
+      <edge source="Demetrios Chalikias" target="Demetrios Chalikias" id="33" weight="0" />
+      <edge source="Demetrios Chalikias" target="Erik Hoffmeyer" id="34" weight="0" />
+      <edge source="Demetrios Chalikias" target="Frans Andriessen" id="35" weight="0" />
+      <edge source="Demetrios Chalikias" target="Jacques Delors" id="36" weight="0" />
+      <edge source="Demetrios Chalikias" target="Jacques de Larosière" id="37" weight="0" />
+      <edge source="Demetrios Chalikias" target="Jean Godeaux" id="38" weight="0" />
+      <edge source="Demetrios Chalikias" target="José Alberto Tavares Moreira" id="39" weight="0" />
+      <edge source="Demetrios Chalikias" target="Karl Otto Pöhl" id="40" weight="0" />
+      <edge source="Demetrios Chalikias" target="Mariano Rubio" id="41" weight="0" />
+      <edge source="Demetrios Chalikias" target="Maurice F. Doyle" id="42" weight="0" />
+      <edge source="Demetrios Chalikias" target="Miguel Boyer" id="43" weight="0" />
+      <edge source="Demetrios Chalikias" target="Niels Thygesen" id="44" weight="0" />
+      <edge source="Demetrios Chalikias" target="Pierre Jaans" id="45" weight="0" />
+      <edge source="Demetrios Chalikias" target="Robin Leigh-Pemberton" id="46" weight="0" />
+      <edge source="Demetrios Chalikias" target="Wim Duisenberg" id="47" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Erik Hoffmeyer" id="48" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Frans Andriessen" id="49" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Jacques Delors" id="50" weight="1" />
+      <edge source="Erik Hoffmeyer" target="Jacques de Larosière" id="51" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Jean Godeaux" id="52" weight="1" />
+      <edge source="Erik Hoffmeyer" target="José Alberto Tavares Moreira" id="53" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Karl Otto Pöhl" id="54" weight="1" />
+      <edge source="Erik Hoffmeyer" target="Mariano Rubio" id="55" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Maurice F. Doyle" id="56" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Miguel Boyer" id="57" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Niels Thygesen" id="58" weight="1" />
+      <edge source="Erik Hoffmeyer" target="Pierre Jaans" id="59" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Robin Leigh-Pemberton" id="60" weight="0" />
+      <edge source="Erik Hoffmeyer" target="Wim Duisenberg" id="61" weight="1" />
+      <edge source="Frans Andriessen" target="Frans Andriessen" id="62" weight="0" />
+      <edge source="Frans Andriessen" target="Jacques Delors" id="63" weight="2" />
+      <edge source="Frans Andriessen" target="Jacques de Larosière" id="64" weight="0" />
+      <edge source="Frans Andriessen" target="Jean Godeaux" id="65" weight="0" />
+      <edge source="Frans Andriessen" target="José Alberto Tavares Moreira" id="66" weight="0" />
+      <edge source="Frans Andriessen" target="Karl Otto Pöhl" id="67" weight="1" />
+      <edge source="Frans Andriessen" target="Mariano Rubio" id="68" weight="0" />
+      <edge source="Frans Andriessen" target="Maurice F. Doyle" id="69" weight="1" />
+      <edge source="Frans Andriessen" target="Miguel Boyer" id="70" weight="0" />
+      <edge source="Frans Andriessen" target="Niels Thygesen" id="71" weight="0" />
+      <edge source="Frans Andriessen" target="Pierre Jaans" id="72" weight="0" />
+      <edge source="Frans Andriessen" target="Robin Leigh-Pemberton" id="73" weight="0" />
+      <edge source="Frans Andriessen" target="Wim Duisenberg" id="74" weight="1" />
+      <edge source="Jacques Delors" target="Jacques Delors" id="75" weight="5" />
+      <edge source="Jacques Delors" target="Jacques de Larosière" id="76" weight="6" />
+      <edge source="Jacques Delors" target="Jean Godeaux" id="77" weight="2" />
+      <edge source="Jacques Delors" target="José Alberto Tavares Moreira" id="78" weight="0" />
+      <edge source="Jacques Delors" target="Karl Otto Pöhl" id="79" weight="12" />
+      <edge source="Jacques Delors" target="Mariano Rubio" id="80" weight="1" />
+      <edge source="Jacques Delors" target="Maurice F. Doyle" id="81" weight="5" />
+      <edge source="Jacques Delors" target="Miguel Boyer" id="82" weight="3" />
+      <edge source="Jacques Delors" target="Niels Thygesen" id="83" weight="3" />
+      <edge source="Jacques Delors" target="Pierre Jaans" id="84" weight="5" />
+      <edge source="Jacques Delors" target="Robin Leigh-Pemberton" id="85" weight="1" />
+      <edge source="Jacques Delors" target="Wim Duisenberg" id="86" weight="9" />
+      <edge source="Jacques de Larosière" target="Jacques de Larosière" id="87" weight="2" />
+      <edge source="Jacques de Larosière" target="Jean Godeaux" id="88" weight="1" />
+      <edge source="Jacques de Larosière" target="José Alberto Tavares Moreira" id="89" weight="0" />
+      <edge source="Jacques de Larosière" target="Karl Otto Pöhl" id="90" weight="8" />
+      <edge source="Jacques de Larosière" target="Mariano Rubio" id="91" weight="1" />
+      <edge source="Jacques de Larosière" target="Maurice F. Doyle" id="92" weight="1" />
+      <edge source="Jacques de Larosière" target="Miguel Boyer" id="93" weight="3" />
+      <edge source="Jacques de Larosière" target="Niels Thygesen" id="94" weight="2" />
+      <edge source="Jacques de Larosière" target="Pierre Jaans" id="95" weight="0" />
+      <edge source="Jacques de Larosière" target="Robin Leigh-Pemberton" id="96" weight="2" />
+      <edge source="Jacques de Larosière" target="Wim Duisenberg" id="97" weight="7" />
+      <edge source="Jean Godeaux" target="Jean Godeaux" id="98" weight="0" />
+      <edge source="Jean Godeaux" target="José Alberto Tavares Moreira" id="99" weight="0" />
+      <edge source="Jean Godeaux" target="Karl Otto Pöhl" id="100" weight="1" />
+      <edge source="Jean Godeaux" target="Mariano Rubio" id="101" weight="0" />
+      <edge source="Jean Godeaux" target="Maurice F. Doyle" id="102" weight="0" />
+      <edge source="Jean Godeaux" target="Miguel Boyer" id="103" weight="0" />
+      <edge source="Jean Godeaux" target="Niels Thygesen" id="104" weight="1" />
+      <edge source="Jean Godeaux" target="Pierre Jaans" id="105" weight="0" />
+      <edge source="Jean Godeaux" target="Robin Leigh-Pemberton" id="106" weight="0" />
+      <edge source="Jean Godeaux" target="Wim Duisenberg" id="107" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="José Alberto Tavares Moreira" id="108" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="Karl Otto Pöhl" id="109" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="Mariano Rubio" id="110" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="Maurice F. Doyle" id="111" weight="2" />
+      <edge source="José Alberto Tavares Moreira" target="Miguel Boyer" id="112" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="Niels Thygesen" id="113" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="Pierre Jaans" id="114" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="Robin Leigh-Pemberton" id="115" weight="0" />
+      <edge source="José Alberto Tavares Moreira" target="Wim Duisenberg" id="116" weight="0" />
+      <edge source="Karl Otto Pöhl" target="Karl Otto Pöhl" id="117" weight="1" />
+      <edge source="Karl Otto Pöhl" target="Mariano Rubio" id="118" weight="3" />
+      <edge source="Karl Otto Pöhl" target="Maurice F. Doyle" id="119" weight="1" />
+      <edge source="Karl Otto Pöhl" target="Miguel Boyer" id="120" weight="2" />
+      <edge source="Karl Otto Pöhl" target="Niels Thygesen" id="121" weight="3" />
+      <edge source="Karl Otto Pöhl" target="Pierre Jaans" id="122" weight="1" />
+      <edge source="Karl Otto Pöhl" target="Robin Leigh-Pemberton" id="123" weight="6" />
+      <edge source="Karl Otto Pöhl" target="Wim Duisenberg" id="124" weight="4" />
+      <edge source="Mariano Rubio" target="Mariano Rubio" id="125" weight="0" />
+      <edge source="Mariano Rubio" target="Maurice F. Doyle" id="126" weight="0" />
+      <edge source="Mariano Rubio" target="Miguel Boyer" id="127" weight="0" />
+      <edge source="Mariano Rubio" target="Niels Thygesen" id="128" weight="0" />
+      <edge source="Mariano Rubio" target="Pierre Jaans" id="129" weight="0" />
+      <edge source="Mariano Rubio" target="Robin Leigh-Pemberton" id="130" weight="0" />
+      <edge source="Mariano Rubio" target="Wim Duisenberg" id="131" weight="0" />
+      <edge source="Maurice F. Doyle" target="Maurice F. Doyle" id="132" weight="0" />
+      <edge source="Maurice F. Doyle" target="Miguel Boyer" id="133" weight="1" />
+      <edge source="Maurice F. Doyle" target="Niels Thygesen" id="134" weight="1" />
+      <edge source="Maurice F. Doyle" target="Pierre Jaans" id="135" weight="1" />
+      <edge source="Maurice F. Doyle" target="Robin Leigh-Pemberton" id="136" weight="2" />
+      <edge source="Maurice F. Doyle" target="Wim Duisenberg" id="137" weight="1" />
+      <edge source="Miguel Boyer" target="Miguel Boyer" id="138" weight="0" />
+      <edge source="Miguel Boyer" target="Niels Thygesen" id="139" weight="1" />
+      <edge source="Miguel Boyer" target="Pierre Jaans" id="140" weight="0" />
+      <edge source="Miguel Boyer" target="Robin Leigh-Pemberton" id="141" weight="0" />
+      <edge source="Miguel Boyer" target="Wim Duisenberg" id="142" weight="0" />
+      <edge source="Niels Thygesen" target="Niels Thygesen" id="143" weight="0" />
+      <edge source="Niels Thygesen" target="Pierre Jaans" id="144" weight="0" />
+      <edge source="Niels Thygesen" target="Robin Leigh-Pemberton" id="145" weight="2" />
+      <edge source="Niels Thygesen" target="Wim Duisenberg" id="146" weight="0" />
+      <edge source="Pierre Jaans" target="Pierre Jaans" id="147" weight="0" />
+      <edge source="Pierre Jaans" target="Robin Leigh-Pemberton" id="148" weight="2" />
+      <edge source="Pierre Jaans" target="Wim Duisenberg" id="149" weight="0" />
+      <edge source="Robin Leigh-Pemberton" target="Robin Leigh-Pemberton" id="150" weight="0" />
+      <edge source="Robin Leigh-Pemberton" target="Wim Duisenberg" id="151" weight="2" />
+      <edge source="Wim Duisenberg" target="Wim Duisenberg" id="152" weight="0" />
+    </edges>
+  </graph>
+</gexf>
