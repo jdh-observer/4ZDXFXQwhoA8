@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
-  <meta lastmodifieddate="2023-04-06">
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-12">
     <creator>NetworkX 2.6.3</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -198,335 +198,335 @@
       <node id="Central Bank Council" label="Central Bank Council" />
     </nodes>
     <edges>
-      <edge id="0" source="Jacques Delors" target="BIS" />
-      <edge id="1" source="Jacques Delors" target="Committee" />
-      <edge id="2" source="Jacques Delors" target="nan" />
-      <edge id="3" source="Jacques Delors" target="the European Parliament" />
-      <edge id="4" source="Jacques Delors" target="the Committee of Governors" />
-      <edge id="5" source="Jacques Delors" target="the European Council" />
-      <edge id="6" source="Jacques Delors" target="the Committee for European Monetary Union" />
-      <edge id="7" source="Jacques Delors" target="Co-Chairman" />
-      <edge id="8" source="Jacques Delors" target="the Executive Secretariat of his Committee" />
-      <edge id="9" source="Jacques Delors" target="Bundesbank" />
-      <edge id="10" source="Jacques Delors" target="the Werner Report" />
-      <edge id="11" source="Jacques Delors" target="the Giscard d'Estaing Group" />
-      <edge id="12" source="Jacques Delors" target="Community" />
-      <edge id="13" source="Jacques Delors" target="European Central Bank" />
-      <edge id="14" source="Jacques Delors" target="the European Monetary System" />
-      <edge id="15" source="Jacques Delors" target="EMS" />
-      <edge id="16" source="Jacques Delors" target="the European Central Bank" />
-      <edge id="17" source="Jacques Delors" target="EU" />
-      <edge id="18" source="Jacques Delors" target="the European Commission" />
-      <edge id="19" source="Jacques Delors" target="Commission" />
-      <edge id="20" source="Jacques Delors" target="IMHO" />
-      <edge id="21" source="Jacques Delors" target="the Economic and Monetary Union Committee" />
-      <edge id="22" source="Jacques Delors" target="VAT" />
-      <edge id="23" source="Jacques Delors" target="the European Union" />
-      <edge id="24" source="Jacques Delors" target="the Council of Economic and Finance Ministers" />
-      <edge id="25" source="Jacques Delors" target="social Community" />
-      <edge id="26" source="Jacques Delors" target="the White Paper" />
-      <edge id="27" source="Jacques Delors" target="the European Monetary System Treaty" />
-      <edge id="28" source="Jacques Delors" target="the Commission" />
-      <edge id="29" source="Jacques Delors" target="the Council of Ministers" />
-      <edge id="30" source="Jacques Delors" target="State" />
-      <edge id="31" source="Jacques Delors" target="the Monetary Committee" />
-      <edge id="32" source="Jacques Delors" target="a European Fiscal Framework" />
-      <edge id="33" source="Jacques Delors" target="an ECOFIN Council of Ministers" />
-      <edge id="34" source="Jacques Delors" target="The European Parliament" />
-      <edge id="35" source="Jacques Delors" target="the Council of Ministers of Finance" />
-      <edge id="36" source="Jacques Delors" target="a Council of Ministers" />
-      <edge id="37" source="Jacques Delors" target="Report" />
-      <edge id="38" source="Jacques Delors" target="Council" />
-      <edge id="39" source="Jacques Delors" target="ECU" />
-      <edge id="40" source="Jacques Delors" target="Section III" />
-      <edge id="41" source="Jacques Delors" target="the European Council of Milan" />
-      <edge id="42" source="Jacques Delors" target="Treaty" />
-      <edge id="43" source="Jacques Delors" target="the Bank of Greece" />
-      <edge id="44" source="Jacques Delors" target="Scenario A" />
-      <edge id="45" source="Jacques Delors" target="Rapporteurs" />
-      <edge id="46" source="Jacques Delors" target="Algarve" />
-      <edge id="47" source="Jacques Delors" target="Governors" />
-      <edge id="48" source="Jacques Delors" target="a Council of Ministers of Finance" />
-      <edge id="49" source="Jacques Delors" target="The European Council" />
-      <edge id="50" source="Jacques Delors" target="Ministers of Finance" />
-      <edge id="51" source="Jacques Delors" target="Parliament" />
-      <edge id="52" source="Jacques Delors" target="EMU" />
-      <edge id="53" source="Jacques Delors" target="the Ministers of Finance" />
-      <edge id="54" source="Jacques Delors" target="Council of Finance" />
-      <edge id="55" source="Jacques Delors" target="Baer" />
-      <edge id="56" source="BIS" target="Jacques de Larosière" />
-      <edge id="57" source="Committee" target="Wim Duisenberg" />
-      <edge id="58" source="Committee" target="Niels Thygesen" />
-      <edge id="59" source="Committee" target="Karl Otto Pöhl" />
-      <edge id="60" source="Committee" target="Pierre Jaans" />
-      <edge id="61" source="Committee" target="Alexandre Lamfalussy" />
-      <edge id="62" source="Committee" target="Erik Hoffmeyer" />
-      <edge id="63" source="Committee" target="Carlo Azeglio Ciampi" />
-      <edge id="64" source="Committee" target="Frans Andriessen" />
-      <edge id="65" source="Committee" target="Maurice F. Doyle" />
-      <edge id="66" source="Committee" target="Jacques de Larosière" />
-      <edge id="67" source="Karl Otto Pöhl" target="nan" />
-      <edge id="68" source="Karl Otto Pöhl" target="the Council of Ministers" />
-      <edge id="69" source="Karl Otto Pöhl" target="the Werner Report" />
-      <edge id="70" source="Karl Otto Pöhl" target="the European Central Bank" />
-      <edge id="71" source="Karl Otto Pöhl" target="EMS" />
-      <edge id="72" source="Karl Otto Pöhl" target="Community" />
-      <edge id="73" source="Karl Otto Pöhl" target="European Central Bank" />
-      <edge id="74" source="Karl Otto Pöhl" target="State" />
-      <edge id="75" source="Karl Otto Pöhl" target="Schleswig-Holstein" />
-      <edge id="76" source="Karl Otto Pöhl" target="Bundesbank" />
-      <edge id="77" source="Karl Otto Pöhl" target="the Committee of EEC Central Bank Governors" />
-      <edge id="78" source="Karl Otto Pöhl" target="EEC" />
-      <edge id="79" source="Karl Otto Pöhl" target="the Central Bank Council" />
-      <edge id="80" source="Karl Otto Pöhl" target="the Committee in Basel -" />
-      <edge id="81" source="Karl Otto Pöhl" target="Council" />
-      <edge id="82" source="Karl Otto Pöhl" target="the Federal Reserve System" />
-      <edge id="83" source="Karl Otto Pöhl" target="the European Monetary System" />
-      <edge id="84" source="Karl Otto Pöhl" target="central bank" />
-      <edge id="85" source="Karl Otto Pöhl" target="the Committee of Governors" />
-      <edge id="86" source="Karl Otto Pöhl" target="the Monetary Committee" />
-      <edge id="87" source="Karl Otto Pöhl" target="the Committee of Central Bank Governors" />
-      <edge id="88" source="Karl Otto Pöhl" target="the Council of Central Bank Governors" />
-      <edge id="89" source="Karl Otto Pöhl" target="The Council of Central Bank Governors" />
-      <edge id="90" source="Karl Otto Pöhl" target="the Council of the Bundesbank" />
-      <edge id="91" source="Karl Otto Pöhl" target="the Council of Governors" />
-      <edge id="92" source="Karl Otto Pöhl" target="the European Central Bank Council" />
-      <edge id="93" source="Karl Otto Pöhl" target="European Central Bank Council" />
-      <edge id="94" source="Karl Otto Pöhl" target="EC" />
-      <edge id="95" source="Karl Otto Pöhl" target="Governors" />
-      <edge id="96" source="Karl Otto Pöhl" target="Committee of central bank Governors" />
-      <edge id="97" source="Karl Otto Pöhl" target="ERM" />
-      <edge id="98" source="Karl Otto Pöhl" target="the European Parliament" />
-      <edge id="99" source="Karl Otto Pöhl" target="Fed" />
-      <edge id="100" source="Karl Otto Pöhl" target="Congress" />
-      <edge id="101" source="Karl Otto Pöhl" target="Parliament" />
-      <edge id="102" source="Karl Otto Pöhl" target="the Council of Ministers - I" />
-      <edge id="103" source="Karl Otto Pöhl" target="the Reserve Fund" />
-      <edge id="104" source="Karl Otto Pöhl" target="Scenario A" />
-      <edge id="105" source="Karl Otto Pöhl" target="European Monetary System" />
-      <edge id="106" source="Karl Otto Pöhl" target="a Reserve Fund" />
-      <edge id="107" source="Karl Otto Pöhl" target="Article" />
-      <edge id="108" source="Karl Otto Pöhl" target="Reserve Fund" />
-      <edge id="109" source="Karl Otto Pöhl" target="ECSB" />
-      <edge id="110" source="Karl Otto Pöhl" target="the Board of Governors" />
-      <edge id="111" source="Karl Otto Pöhl" target="the Executive Board" />
-      <edge id="112" source="Karl Otto Pöhl" target="the Council Resolution" />
-      <edge id="113" source="Karl Otto Pöhl" target="the Central Bank Governors" />
-      <edge id="114" source="Karl Otto Pöhl" target="this Reserve Fund" />
-      <edge id="115" source="Karl Otto Pöhl" target="this European Central Bank" />
-      <edge id="116" source="Karl Otto Pöhl" target="the national central bank" />
-      <edge id="117" source="Karl Otto Pöhl" target="ECU" />
-      <edge id="118" source="Karl Otto Pöhl" target="the Swiss National Bank" />
-      <edge id="119" source="Karl Otto Pöhl" target="DM" />
-      <edge id="120" source="Karl Otto Pöhl" target="Rapporteurs" />
-      <edge id="121" source="Karl Otto Pöhl" target="System" />
-      <edge id="122" source="Karl Otto Pöhl" target="Federal Reserve" />
-      <edge id="123" source="Karl Otto Pöhl" target="the Board of the Bundesbank" />
-      <edge id="124" source="Karl Otto Pöhl" target="Cabinet" />
-      <edge id="125" source="Karl Otto Pöhl" target="Board" />
-      <edge id="126" source="Karl Otto Pöhl" target="the British Government" />
-      <edge id="127" source="Karl Otto Pöhl" target="the German Government" />
-      <edge id="128" source="Karl Otto Pöhl" target="The German Government" />
-      <edge id="129" source="Karl Otto Pöhl" target="EMU" />
-      <edge id="130" source="Karl Otto Pöhl" target="Annex" />
-      <edge id="131" source="Karl Otto Pöhl" target="Jacques" />
-      <edge id="132" source="Karl Otto Pöhl" target="ECOFIN" />
-      <edge id="133" source="Karl Otto Pöhl" target="Council for a new" />
-      <edge id="134" source="Karl Otto Pöhl" target="the Bank of England" />
-      <edge id="135" source="Karl Otto Pöhl" target="Central Bank Council" />
-      <edge id="136" source="Karl Otto Pöhl" target="the European Council" />
-      <edge id="137" source="nan" target="Maurice F. Doyle" />
-      <edge id="138" source="nan" target="Carlo Azeglio Ciampi" />
-      <edge id="139" source="nan" target="Alexandre Lamfalussy" />
-      <edge id="140" source="nan" target="Erik Hoffmeyer" />
-      <edge id="141" source="nan" target="Jacques de Larosière" />
-      <edge id="142" source="nan" target="Wim Duisenberg" />
-      <edge id="143" source="nan" target="Robin Leigh-Pemberton" />
-      <edge id="144" source="nan" target="José Alberto Tavares Moreira" />
-      <edge id="145" source="nan" target="Pierre Jaans" />
-      <edge id="146" source="nan" target="?" />
-      <edge id="147" source="nan" target="Frans Andriessen" />
-      <edge id="148" source="nan" target="Niels Thygesen" />
-      <edge id="149" source="nan" target="Jean Godeaux" />
-      <edge id="150" source="nan" target="Mariano Rubio" />
-      <edge id="151" source="Maurice F. Doyle" target="EEC" />
-      <edge id="152" source="Maurice F. Doyle" target="Community" />
-      <edge id="153" source="Maurice F. Doyle" target="Karl-Otto" />
-      <edge id="154" source="Maurice F. Doyle" target="the Committee of Governors" />
-      <edge id="155" source="Maurice F. Doyle" target="ERF" />
-      <edge id="156" source="Maurice F. Doyle" target="CEPC" />
-      <edge id="157" source="Maurice F. Doyle" target="EMU" />
-      <edge id="158" source="Maurice F. Doyle" target="the European Council" />
-      <edge id="159" source="the Council of Ministers" target="Wim Duisenberg" />
-      <edge id="160" source="the Council of Ministers" target="Jacques de Larosière" />
-      <edge id="161" source="the European Parliament" target="Miguel Boyer" />
-      <edge id="162" source="the Committee of Governors" target="Wim Duisenberg" />
-      <edge id="163" source="the Committee of Governors" target="Jacques de Larosière" />
-      <edge id="164" source="the Committee of Governors" target="Pierre Jaans" />
-      <edge id="165" source="the Committee of Governors" target="Erik Hoffmeyer" />
-      <edge id="166" source="the Committee of Governors" target="Miguel Boyer" />
-      <edge id="167" source="the Committee of Governors" target="Carlo Azeglio Ciampi" />
-      <edge id="168" source="the Committee of Governors" target="Mariano Rubio" />
-      <edge id="169" source="the Committee of Governors" target="Alexandre Lamfalussy" />
-      <edge id="170" source="the European Council" target="Pierre Jaans" />
-      <edge id="171" source="the European Council" target="Wim Duisenberg" />
-      <edge id="172" source="the European Council" target="Jacques de Larosière" />
-      <edge id="173" source="the European Council" target="Niels Thygesen" />
-      <edge id="174" source="Wim Duisenberg" target="monetary union" />
-      <edge id="175" source="Wim Duisenberg" target="FECOM" />
-      <edge id="176" source="Wim Duisenberg" target="Community" />
-      <edge id="177" source="Wim Duisenberg" target="the monetary authority" />
-      <edge id="178" source="Wim Duisenberg" target="the national central bank" />
-      <edge id="179" source="Wim Duisenberg" target="European Central Bank" />
-      <edge id="180" source="Wim Duisenberg" target="the European authority" />
-      <edge id="181" source="Wim Duisenberg" target="a Committee of Governors" />
-      <edge id="182" source="Wim Duisenberg" target="central bank" />
-      <edge id="183" source="Wim Duisenberg" target="Scenario A" />
-      <edge id="184" source="Wim Duisenberg" target="the Skeleton Report" />
-      <edge id="185" source="Wim Duisenberg" target="Bundesbank" />
-      <edge id="186" source="Wim Duisenberg" target="ERF" />
-      <edge id="187" source="Wim Duisenberg" target="Governors Pöhl" />
-      <edge id="188" source="Wim Duisenberg" target="EMS" />
-      <edge id="189" source="Wim Duisenberg" target="Rapporteurs" />
-      <edge id="190" source="Wim Duisenberg" target="ECU" />
-      <edge id="191" source="Wim Duisenberg" target="Governors of Central Banks" />
-      <edge id="192" source="Wim Duisenberg" target="Appendix" />
-      <edge id="193" source="Wim Duisenberg" target="Hoffmeyer and Doyle" />
-      <edge id="194" source="Bundesbank" target="Erik Hoffmeyer" />
-      <edge id="195" source="Bundesbank" target="Jean Godeaux" />
-      <edge id="196" source="Bundesbank" target="Jacques de Larosière" />
-      <edge id="197" source="the Werner Report" target="Miguel Boyer" />
-      <edge id="198" source="the Werner Report" target="Jacques de Larosière" />
-      <edge id="199" source="the Werner Report" target="Erik Hoffmeyer" />
-      <edge id="200" source="the Werner Report" target="Niels Thygesen" />
-      <edge id="201" source="the Werner Report" target="Mariano Rubio" />
-      <edge id="202" source="the Werner Report" target="Pierre Jaans" />
-      <edge id="203" source="Robin Leigh-Pemberton" target="EMU" />
-      <edge id="204" source="Robin Leigh-Pemberton" target="Community" />
-      <edge id="205" source="Robin Leigh-Pemberton" target="State" />
-      <edge id="206" source="Robin Leigh-Pemberton" target="Basle/Nyborg" />
-      <edge id="207" source="Robin Leigh-Pemberton" target="the European Reserve Fund" />
-      <edge id="208" source="Robin Leigh-Pemberton" target="the European Monetary Fund" />
-      <edge id="209" source="Robin Leigh-Pemberton" target="Stage 1" />
-      <edge id="210" source="Robin Leigh-Pemberton" target="ERF" />
-      <edge id="211" source="Robin Leigh-Pemberton" target="Parliament" />
-      <edge id="212" source="Robin Leigh-Pemberton" target="the Bank of England" />
-      <edge id="213" source="Robin Leigh-Pemberton" target="a European Community" />
-      <edge id="214" source="Robin Leigh-Pemberton" target="the European Community" />
-      <edge id="215" source="Robin Leigh-Pemberton" target="EMS" />
-      <edge id="216" source="EMU" target="Pierre Jaans" />
-      <edge id="217" source="EMU" target="Niels Thygesen" />
-      <edge id="218" source="Community" target="Mariano Rubio" />
-      <edge id="219" source="Community" target="Niels Thygesen" />
-      <edge id="220" source="Community" target="Miguel Boyer" />
-      <edge id="221" source="Community" target="Jean Godeaux" />
-      <edge id="222" source="Community" target="Jacques de Larosière" />
-      <edge id="223" source="Community" target="Frans Andriessen" />
-      <edge id="224" source="Community" target="Erik Hoffmeyer" />
-      <edge id="225" source="Community" target="Pierre Jaans" />
-      <edge id="226" source="Miguel Boyer" target="European Central Bank" />
-      <edge id="227" source="Miguel Boyer" target="the European Monetary System" />
-      <edge id="228" source="Miguel Boyer" target="Commonwealth" />
-      <edge id="229" source="Miguel Boyer" target="OECD" />
-      <edge id="230" source="Miguel Boyer" target="the Governor Pöhl" />
-      <edge id="231" source="Miguel Boyer" target="the final monetary economic union" />
-      <edge id="232" source="Miguel Boyer" target="Community Regional" />
-      <edge id="233" source="Miguel Boyer" target="the Committee of central bank Governors" />
-      <edge id="234" source="Miguel Boyer" target="Governors" />
-      <edge id="235" source="Miguel Boyer" target="ECU" />
-      <edge id="236" source="Miguel Boyer" target="Board" />
-      <edge id="237" source="Miguel Boyer" target="the Council of the European Central Banking System" />
-      <edge id="238" source="Miguel Boyer" target="Unions" />
-      <edge id="239" source="Miguel Boyer" target="Financial Community" />
-      <edge id="240" source="European Central Bank" target="Pierre Jaans" />
-      <edge id="241" source="the European Monetary System" target="Mariano Rubio" />
-      <edge id="242" source="the European Monetary System" target="Niels Thygesen" />
-      <edge id="243" source="the European Monetary System" target="Jean Godeaux" />
-      <edge id="244" source="Carlo Azeglio Ciampi" target="the Stage 1" />
-      <edge id="245" source="Carlo Azeglio Ciampi" target="Committee of Governors'" />
-      <edge id="246" source="Carlo Azeglio Ciampi" target="Treaty" />
-      <edge id="247" source="Carlo Azeglio Ciampi" target="EMS" />
-      <edge id="248" source="Mariano Rubio" target="Stage A" />
-      <edge id="249" source="Mariano Rubio" target="EMS" />
-      <edge id="250" source="Mariano Rubio" target="ERM" />
-      <edge id="251" source="Mariano Rubio" target="the Spanish Government" />
-      <edge id="252" source="Jacques de Larosière" target="EMCF" />
-      <edge id="253" source="Jacques de Larosière" target="Council" />
-      <edge id="254" source="Jacques de Larosière" target="Confederate" />
-      <edge id="255" source="Jacques de Larosière" target="Commanauté" />
-      <edge id="256" source="Jacques de Larosière" target="State" />
-      <edge id="257" source="Jacques de Larosière" target="the Federal Reserve System" />
-      <edge id="258" source="Jacques de Larosière" target="this Committee of Governors" />
-      <edge id="259" source="Jacques de Larosière" target="the Banque de France" />
-      <edge id="260" source="Jacques de Larosière" target="the Ministry of Finance" />
-      <edge id="261" source="Jacques de Larosière" target="Treasury" />
-      <edge id="262" source="Jacques de Larosière" target="ERM" />
-      <edge id="263" source="Jacques de Larosière" target="the Council of Ministers if the Council of Ministers" />
-      <edge id="264" source="Jacques de Larosière" target="Governors" />
-      <edge id="265" source="Jacques de Larosière" target="EMS" />
-      <edge id="266" source="Jacques de Larosière" target="Rapporteurs" />
-      <edge id="267" source="Jacques de Larosière" target="ERF" />
-      <edge id="268" source="Jacques de Larosière" target="EMS ERM" />
-      <edge id="269" source="Jacques de Larosière" target="Alexandre" />
-      <edge id="270" source="Jacques de Larosière" target="ECU" />
-      <edge id="271" source="Jacques de Larosière" target="Stage 2" />
-      <edge id="272" source="Jacques de Larosière" target="the Board of this federal system" />
-      <edge id="273" source="Jacques de Larosière" target="Board" />
-      <edge id="274" source="Jacques de Larosière" target="European Council" />
-      <edge id="275" source="Jacques de Larosière" target="Ministers" />
-      <edge id="276" source="Erik Hoffmeyer" target="Padoa-Schioppa" />
-      <edge id="277" source="Erik Hoffmeyer" target="State" />
-      <edge id="278" source="Erik Hoffmeyer" target="ERF" />
-      <edge id="279" source="Erik Hoffmeyer" target="this Committee of central bank Governors" />
-      <edge id="280" source="Erik Hoffmeyer" target="Treaty" />
-      <edge id="281" source="Erik Hoffmeyer" target="the Committee on p.2" />
-      <edge id="282" source="Erik Hoffmeyer" target="p.6 the Committee" />
-      <edge id="283" source="Erik Hoffmeyer" target="Duisenberg" />
-      <edge id="284" source="Erik Hoffmeyer" target="ECU" />
-      <edge id="285" source="Erik Hoffmeyer" target="ECOFIN" />
-      <edge id="286" source="Erik Hoffmeyer" target="communiqués" />
-      <edge id="287" source="Demetrios Chalikias" target="ERM" />
-      <edge id="288" source="Niels Thygesen" target="the central bank governing board" />
-      <edge id="289" source="Niels Thygesen" target="Rapporteurs" />
-      <edge id="290" source="Niels Thygesen" target="the Bank of England" />
-      <edge id="291" source="Niels Thygesen" target="ECU" />
-      <edge id="292" source="Niels Thygesen" target="EMS" />
-      <edge id="293" source="EMS" target="Jean Godeaux" />
-      <edge id="294" source="EMS" target="Alexandre Lamfalussy" />
-      <edge id="295" source="EMS" target="Pierre Jaans" />
-      <edge id="296" source="State" target="Alexandre Lamfalussy" />
-      <edge id="297" source="State" target="Pierre Jaans" />
-      <edge id="298" source="Jean Godeaux" target="Uncertainties" />
-      <edge id="299" source="Jean Godeaux" target="Eliminate intra-Community" />
-      <edge id="300" source="Jean Godeaux" target="Basle/Nyborg" />
-      <edge id="301" source="Jean Godeaux" target="Karl-Otto Pöhl" />
-      <edge id="302" source="Jean Godeaux" target="European Monetary Fund" />
-      <edge id="303" source="Jean Godeaux" target="the Deutsche Bundesbank" />
-      <edge id="304" source="Jean Godeaux" target="the Bank of England" />
-      <edge id="305" source="Jean Godeaux" target="the Banque de France" />
-      <edge id="306" source="Jean Godeaux" target="Governors" />
-      <edge id="307" source="Jean Godeaux" target="DM" />
-      <edge id="308" source="Alexandre Lamfalussy" target="the Committee of the Governors" />
-      <edge id="309" source="Alexandre Lamfalussy" target="nut" />
-      <edge id="310" source="Alexandre Lamfalussy" target="Reserve Fund" />
-      <edge id="311" source="Alexandre Lamfalussy" target="Scenario A" />
-      <edge id="312" source="Alexandre Lamfalussy" target="the Reserve Fund" />
-      <edge id="313" source="Alexandre Lamfalussy" target="the EEC Governors" />
-      <edge id="314" source="Alexandre Lamfalussy" target="Treaty" />
-      <edge id="315" source="Alexandre Lamfalussy" target="Governors" />
-      <edge id="316" source="Alexandre Lamfalussy" target="Directive" />
-      <edge id="317" source="Alexandre Lamfalussy" target="this Committee of Governors" />
-      <edge id="318" source="Basle/Nyborg" target="Pierre Jaans" />
-      <edge id="319" source="Pierre Jaans" target="The European Council" />
-      <edge id="320" source="Pierre Jaans" target="Committee of Governors" />
-      <edge id="321" source="Pierre Jaans" target="Convergence Directive" />
-      <edge id="322" source="Pierre Jaans" target="the 1974 Directive" />
-      <edge id="323" source="Pierre Jaans" target="Directives" />
-      <edge id="324" source="Pierre Jaans" target="Parliament" />
-      <edge id="325" source="Pierre Jaans" target="ECU" />
-      <edge id="326" source="Pierre Jaans" target="the Giscard/Schmidt Committee" />
-      <edge id="327" source="Treaty" target="Frans Andriessen" />
-      <edge id="328" source="Frans Andriessen" target="Secretariat" />
+      <edge source="Jacques Delors" target="BIS" id="0" />
+      <edge source="Jacques Delors" target="Committee" id="1" />
+      <edge source="Jacques Delors" target="nan" id="2" />
+      <edge source="Jacques Delors" target="the European Parliament" id="3" />
+      <edge source="Jacques Delors" target="the Committee of Governors" id="4" />
+      <edge source="Jacques Delors" target="the European Council" id="5" />
+      <edge source="Jacques Delors" target="the Committee for European Monetary Union" id="6" />
+      <edge source="Jacques Delors" target="Co-Chairman" id="7" />
+      <edge source="Jacques Delors" target="the Executive Secretariat of his Committee" id="8" />
+      <edge source="Jacques Delors" target="Bundesbank" id="9" />
+      <edge source="Jacques Delors" target="the Werner Report" id="10" />
+      <edge source="Jacques Delors" target="the Giscard d'Estaing Group" id="11" />
+      <edge source="Jacques Delors" target="Community" id="12" />
+      <edge source="Jacques Delors" target="European Central Bank" id="13" />
+      <edge source="Jacques Delors" target="the European Monetary System" id="14" />
+      <edge source="Jacques Delors" target="EMS" id="15" />
+      <edge source="Jacques Delors" target="the European Central Bank" id="16" />
+      <edge source="Jacques Delors" target="EU" id="17" />
+      <edge source="Jacques Delors" target="the European Commission" id="18" />
+      <edge source="Jacques Delors" target="Commission" id="19" />
+      <edge source="Jacques Delors" target="IMHO" id="20" />
+      <edge source="Jacques Delors" target="the Economic and Monetary Union Committee" id="21" />
+      <edge source="Jacques Delors" target="VAT" id="22" />
+      <edge source="Jacques Delors" target="the European Union" id="23" />
+      <edge source="Jacques Delors" target="the Council of Economic and Finance Ministers" id="24" />
+      <edge source="Jacques Delors" target="social Community" id="25" />
+      <edge source="Jacques Delors" target="the White Paper" id="26" />
+      <edge source="Jacques Delors" target="the European Monetary System Treaty" id="27" />
+      <edge source="Jacques Delors" target="the Commission" id="28" />
+      <edge source="Jacques Delors" target="the Council of Ministers" id="29" />
+      <edge source="Jacques Delors" target="State" id="30" />
+      <edge source="Jacques Delors" target="the Monetary Committee" id="31" />
+      <edge source="Jacques Delors" target="a European Fiscal Framework" id="32" />
+      <edge source="Jacques Delors" target="an ECOFIN Council of Ministers" id="33" />
+      <edge source="Jacques Delors" target="The European Parliament" id="34" />
+      <edge source="Jacques Delors" target="the Council of Ministers of Finance" id="35" />
+      <edge source="Jacques Delors" target="a Council of Ministers" id="36" />
+      <edge source="Jacques Delors" target="Report" id="37" />
+      <edge source="Jacques Delors" target="Council" id="38" />
+      <edge source="Jacques Delors" target="ECU" id="39" />
+      <edge source="Jacques Delors" target="Section III" id="40" />
+      <edge source="Jacques Delors" target="the European Council of Milan" id="41" />
+      <edge source="Jacques Delors" target="Treaty" id="42" />
+      <edge source="Jacques Delors" target="the Bank of Greece" id="43" />
+      <edge source="Jacques Delors" target="Scenario A" id="44" />
+      <edge source="Jacques Delors" target="Rapporteurs" id="45" />
+      <edge source="Jacques Delors" target="Algarve" id="46" />
+      <edge source="Jacques Delors" target="Governors" id="47" />
+      <edge source="Jacques Delors" target="a Council of Ministers of Finance" id="48" />
+      <edge source="Jacques Delors" target="The European Council" id="49" />
+      <edge source="Jacques Delors" target="Ministers of Finance" id="50" />
+      <edge source="Jacques Delors" target="Parliament" id="51" />
+      <edge source="Jacques Delors" target="EMU" id="52" />
+      <edge source="Jacques Delors" target="the Ministers of Finance" id="53" />
+      <edge source="Jacques Delors" target="Council of Finance" id="54" />
+      <edge source="Jacques Delors" target="Baer" id="55" />
+      <edge source="BIS" target="Jacques de Larosière" id="56" />
+      <edge source="Committee" target="Wim Duisenberg" id="57" />
+      <edge source="Committee" target="Niels Thygesen" id="58" />
+      <edge source="Committee" target="Karl Otto Pöhl" id="59" />
+      <edge source="Committee" target="Pierre Jaans" id="60" />
+      <edge source="Committee" target="Alexandre Lamfalussy" id="61" />
+      <edge source="Committee" target="Erik Hoffmeyer" id="62" />
+      <edge source="Committee" target="Carlo Azeglio Ciampi" id="63" />
+      <edge source="Committee" target="Frans Andriessen" id="64" />
+      <edge source="Committee" target="Maurice F. Doyle" id="65" />
+      <edge source="Committee" target="Jacques de Larosière" id="66" />
+      <edge source="Karl Otto Pöhl" target="nan" id="67" />
+      <edge source="Karl Otto Pöhl" target="the Council of Ministers" id="68" />
+      <edge source="Karl Otto Pöhl" target="the Werner Report" id="69" />
+      <edge source="Karl Otto Pöhl" target="the European Central Bank" id="70" />
+      <edge source="Karl Otto Pöhl" target="EMS" id="71" />
+      <edge source="Karl Otto Pöhl" target="Community" id="72" />
+      <edge source="Karl Otto Pöhl" target="European Central Bank" id="73" />
+      <edge source="Karl Otto Pöhl" target="State" id="74" />
+      <edge source="Karl Otto Pöhl" target="Schleswig-Holstein" id="75" />
+      <edge source="Karl Otto Pöhl" target="Bundesbank" id="76" />
+      <edge source="Karl Otto Pöhl" target="the Committee of EEC Central Bank Governors" id="77" />
+      <edge source="Karl Otto Pöhl" target="EEC" id="78" />
+      <edge source="Karl Otto Pöhl" target="the Central Bank Council" id="79" />
+      <edge source="Karl Otto Pöhl" target="the Committee in Basel -" id="80" />
+      <edge source="Karl Otto Pöhl" target="Council" id="81" />
+      <edge source="Karl Otto Pöhl" target="the Federal Reserve System" id="82" />
+      <edge source="Karl Otto Pöhl" target="the European Monetary System" id="83" />
+      <edge source="Karl Otto Pöhl" target="central bank" id="84" />
+      <edge source="Karl Otto Pöhl" target="the Committee of Governors" id="85" />
+      <edge source="Karl Otto Pöhl" target="the Monetary Committee" id="86" />
+      <edge source="Karl Otto Pöhl" target="the Committee of Central Bank Governors" id="87" />
+      <edge source="Karl Otto Pöhl" target="the Council of Central Bank Governors" id="88" />
+      <edge source="Karl Otto Pöhl" target="The Council of Central Bank Governors" id="89" />
+      <edge source="Karl Otto Pöhl" target="the Council of the Bundesbank" id="90" />
+      <edge source="Karl Otto Pöhl" target="the Council of Governors" id="91" />
+      <edge source="Karl Otto Pöhl" target="the European Central Bank Council" id="92" />
+      <edge source="Karl Otto Pöhl" target="European Central Bank Council" id="93" />
+      <edge source="Karl Otto Pöhl" target="EC" id="94" />
+      <edge source="Karl Otto Pöhl" target="Governors" id="95" />
+      <edge source="Karl Otto Pöhl" target="Committee of central bank Governors" id="96" />
+      <edge source="Karl Otto Pöhl" target="ERM" id="97" />
+      <edge source="Karl Otto Pöhl" target="the European Parliament" id="98" />
+      <edge source="Karl Otto Pöhl" target="Fed" id="99" />
+      <edge source="Karl Otto Pöhl" target="Congress" id="100" />
+      <edge source="Karl Otto Pöhl" target="Parliament" id="101" />
+      <edge source="Karl Otto Pöhl" target="the Council of Ministers - I" id="102" />
+      <edge source="Karl Otto Pöhl" target="the Reserve Fund" id="103" />
+      <edge source="Karl Otto Pöhl" target="Scenario A" id="104" />
+      <edge source="Karl Otto Pöhl" target="European Monetary System" id="105" />
+      <edge source="Karl Otto Pöhl" target="a Reserve Fund" id="106" />
+      <edge source="Karl Otto Pöhl" target="Article" id="107" />
+      <edge source="Karl Otto Pöhl" target="Reserve Fund" id="108" />
+      <edge source="Karl Otto Pöhl" target="ECSB" id="109" />
+      <edge source="Karl Otto Pöhl" target="the Board of Governors" id="110" />
+      <edge source="Karl Otto Pöhl" target="the Executive Board" id="111" />
+      <edge source="Karl Otto Pöhl" target="the Council Resolution" id="112" />
+      <edge source="Karl Otto Pöhl" target="the Central Bank Governors" id="113" />
+      <edge source="Karl Otto Pöhl" target="this Reserve Fund" id="114" />
+      <edge source="Karl Otto Pöhl" target="this European Central Bank" id="115" />
+      <edge source="Karl Otto Pöhl" target="the national central bank" id="116" />
+      <edge source="Karl Otto Pöhl" target="ECU" id="117" />
+      <edge source="Karl Otto Pöhl" target="the Swiss National Bank" id="118" />
+      <edge source="Karl Otto Pöhl" target="DM" id="119" />
+      <edge source="Karl Otto Pöhl" target="Rapporteurs" id="120" />
+      <edge source="Karl Otto Pöhl" target="System" id="121" />
+      <edge source="Karl Otto Pöhl" target="Federal Reserve" id="122" />
+      <edge source="Karl Otto Pöhl" target="the Board of the Bundesbank" id="123" />
+      <edge source="Karl Otto Pöhl" target="Cabinet" id="124" />
+      <edge source="Karl Otto Pöhl" target="Board" id="125" />
+      <edge source="Karl Otto Pöhl" target="the British Government" id="126" />
+      <edge source="Karl Otto Pöhl" target="the German Government" id="127" />
+      <edge source="Karl Otto Pöhl" target="The German Government" id="128" />
+      <edge source="Karl Otto Pöhl" target="EMU" id="129" />
+      <edge source="Karl Otto Pöhl" target="Annex" id="130" />
+      <edge source="Karl Otto Pöhl" target="Jacques" id="131" />
+      <edge source="Karl Otto Pöhl" target="ECOFIN" id="132" />
+      <edge source="Karl Otto Pöhl" target="Council for a new" id="133" />
+      <edge source="Karl Otto Pöhl" target="the Bank of England" id="134" />
+      <edge source="Karl Otto Pöhl" target="Central Bank Council" id="135" />
+      <edge source="Karl Otto Pöhl" target="the European Council" id="136" />
+      <edge source="nan" target="Maurice F. Doyle" id="137" />
+      <edge source="nan" target="Carlo Azeglio Ciampi" id="138" />
+      <edge source="nan" target="Alexandre Lamfalussy" id="139" />
+      <edge source="nan" target="Erik Hoffmeyer" id="140" />
+      <edge source="nan" target="Jacques de Larosière" id="141" />
+      <edge source="nan" target="Wim Duisenberg" id="142" />
+      <edge source="nan" target="Robin Leigh-Pemberton" id="143" />
+      <edge source="nan" target="José Alberto Tavares Moreira" id="144" />
+      <edge source="nan" target="Pierre Jaans" id="145" />
+      <edge source="nan" target="?" id="146" />
+      <edge source="nan" target="Frans Andriessen" id="147" />
+      <edge source="nan" target="Niels Thygesen" id="148" />
+      <edge source="nan" target="Jean Godeaux" id="149" />
+      <edge source="nan" target="Mariano Rubio" id="150" />
+      <edge source="Maurice F. Doyle" target="EEC" id="151" />
+      <edge source="Maurice F. Doyle" target="Community" id="152" />
+      <edge source="Maurice F. Doyle" target="Karl-Otto" id="153" />
+      <edge source="Maurice F. Doyle" target="the Committee of Governors" id="154" />
+      <edge source="Maurice F. Doyle" target="ERF" id="155" />
+      <edge source="Maurice F. Doyle" target="CEPC" id="156" />
+      <edge source="Maurice F. Doyle" target="EMU" id="157" />
+      <edge source="Maurice F. Doyle" target="the European Council" id="158" />
+      <edge source="the Council of Ministers" target="Wim Duisenberg" id="159" />
+      <edge source="the Council of Ministers" target="Jacques de Larosière" id="160" />
+      <edge source="the European Parliament" target="Miguel Boyer" id="161" />
+      <edge source="the Committee of Governors" target="Wim Duisenberg" id="162" />
+      <edge source="the Committee of Governors" target="Jacques de Larosière" id="163" />
+      <edge source="the Committee of Governors" target="Pierre Jaans" id="164" />
+      <edge source="the Committee of Governors" target="Erik Hoffmeyer" id="165" />
+      <edge source="the Committee of Governors" target="Miguel Boyer" id="166" />
+      <edge source="the Committee of Governors" target="Carlo Azeglio Ciampi" id="167" />
+      <edge source="the Committee of Governors" target="Mariano Rubio" id="168" />
+      <edge source="the Committee of Governors" target="Alexandre Lamfalussy" id="169" />
+      <edge source="the European Council" target="Pierre Jaans" id="170" />
+      <edge source="the European Council" target="Wim Duisenberg" id="171" />
+      <edge source="the European Council" target="Jacques de Larosière" id="172" />
+      <edge source="the European Council" target="Niels Thygesen" id="173" />
+      <edge source="Wim Duisenberg" target="monetary union" id="174" />
+      <edge source="Wim Duisenberg" target="FECOM" id="175" />
+      <edge source="Wim Duisenberg" target="Community" id="176" />
+      <edge source="Wim Duisenberg" target="the monetary authority" id="177" />
+      <edge source="Wim Duisenberg" target="the national central bank" id="178" />
+      <edge source="Wim Duisenberg" target="European Central Bank" id="179" />
+      <edge source="Wim Duisenberg" target="the European authority" id="180" />
+      <edge source="Wim Duisenberg" target="a Committee of Governors" id="181" />
+      <edge source="Wim Duisenberg" target="central bank" id="182" />
+      <edge source="Wim Duisenberg" target="Scenario A" id="183" />
+      <edge source="Wim Duisenberg" target="the Skeleton Report" id="184" />
+      <edge source="Wim Duisenberg" target="Bundesbank" id="185" />
+      <edge source="Wim Duisenberg" target="ERF" id="186" />
+      <edge source="Wim Duisenberg" target="Governors Pöhl" id="187" />
+      <edge source="Wim Duisenberg" target="EMS" id="188" />
+      <edge source="Wim Duisenberg" target="Rapporteurs" id="189" />
+      <edge source="Wim Duisenberg" target="ECU" id="190" />
+      <edge source="Wim Duisenberg" target="Governors of Central Banks" id="191" />
+      <edge source="Wim Duisenberg" target="Appendix" id="192" />
+      <edge source="Wim Duisenberg" target="Hoffmeyer and Doyle" id="193" />
+      <edge source="Bundesbank" target="Erik Hoffmeyer" id="194" />
+      <edge source="Bundesbank" target="Jean Godeaux" id="195" />
+      <edge source="Bundesbank" target="Jacques de Larosière" id="196" />
+      <edge source="the Werner Report" target="Miguel Boyer" id="197" />
+      <edge source="the Werner Report" target="Jacques de Larosière" id="198" />
+      <edge source="the Werner Report" target="Erik Hoffmeyer" id="199" />
+      <edge source="the Werner Report" target="Niels Thygesen" id="200" />
+      <edge source="the Werner Report" target="Mariano Rubio" id="201" />
+      <edge source="the Werner Report" target="Pierre Jaans" id="202" />
+      <edge source="Robin Leigh-Pemberton" target="EMU" id="203" />
+      <edge source="Robin Leigh-Pemberton" target="Community" id="204" />
+      <edge source="Robin Leigh-Pemberton" target="State" id="205" />
+      <edge source="Robin Leigh-Pemberton" target="Basle/Nyborg" id="206" />
+      <edge source="Robin Leigh-Pemberton" target="the European Reserve Fund" id="207" />
+      <edge source="Robin Leigh-Pemberton" target="the European Monetary Fund" id="208" />
+      <edge source="Robin Leigh-Pemberton" target="Stage 1" id="209" />
+      <edge source="Robin Leigh-Pemberton" target="ERF" id="210" />
+      <edge source="Robin Leigh-Pemberton" target="Parliament" id="211" />
+      <edge source="Robin Leigh-Pemberton" target="the Bank of England" id="212" />
+      <edge source="Robin Leigh-Pemberton" target="a European Community" id="213" />
+      <edge source="Robin Leigh-Pemberton" target="the European Community" id="214" />
+      <edge source="Robin Leigh-Pemberton" target="EMS" id="215" />
+      <edge source="EMU" target="Pierre Jaans" id="216" />
+      <edge source="EMU" target="Niels Thygesen" id="217" />
+      <edge source="Community" target="Mariano Rubio" id="218" />
+      <edge source="Community" target="Niels Thygesen" id="219" />
+      <edge source="Community" target="Miguel Boyer" id="220" />
+      <edge source="Community" target="Jean Godeaux" id="221" />
+      <edge source="Community" target="Jacques de Larosière" id="222" />
+      <edge source="Community" target="Frans Andriessen" id="223" />
+      <edge source="Community" target="Erik Hoffmeyer" id="224" />
+      <edge source="Community" target="Pierre Jaans" id="225" />
+      <edge source="Miguel Boyer" target="European Central Bank" id="226" />
+      <edge source="Miguel Boyer" target="the European Monetary System" id="227" />
+      <edge source="Miguel Boyer" target="Commonwealth" id="228" />
+      <edge source="Miguel Boyer" target="OECD" id="229" />
+      <edge source="Miguel Boyer" target="the Governor Pöhl" id="230" />
+      <edge source="Miguel Boyer" target="the final monetary economic union" id="231" />
+      <edge source="Miguel Boyer" target="Community Regional" id="232" />
+      <edge source="Miguel Boyer" target="the Committee of central bank Governors" id="233" />
+      <edge source="Miguel Boyer" target="Governors" id="234" />
+      <edge source="Miguel Boyer" target="ECU" id="235" />
+      <edge source="Miguel Boyer" target="Board" id="236" />
+      <edge source="Miguel Boyer" target="the Council of the European Central Banking System" id="237" />
+      <edge source="Miguel Boyer" target="Unions" id="238" />
+      <edge source="Miguel Boyer" target="Financial Community" id="239" />
+      <edge source="European Central Bank" target="Pierre Jaans" id="240" />
+      <edge source="the European Monetary System" target="Mariano Rubio" id="241" />
+      <edge source="the European Monetary System" target="Niels Thygesen" id="242" />
+      <edge source="the European Monetary System" target="Jean Godeaux" id="243" />
+      <edge source="Carlo Azeglio Ciampi" target="the Stage 1" id="244" />
+      <edge source="Carlo Azeglio Ciampi" target="Committee of Governors'" id="245" />
+      <edge source="Carlo Azeglio Ciampi" target="Treaty" id="246" />
+      <edge source="Carlo Azeglio Ciampi" target="EMS" id="247" />
+      <edge source="Mariano Rubio" target="Stage A" id="248" />
+      <edge source="Mariano Rubio" target="EMS" id="249" />
+      <edge source="Mariano Rubio" target="ERM" id="250" />
+      <edge source="Mariano Rubio" target="the Spanish Government" id="251" />
+      <edge source="Jacques de Larosière" target="EMCF" id="252" />
+      <edge source="Jacques de Larosière" target="Council" id="253" />
+      <edge source="Jacques de Larosière" target="Confederate" id="254" />
+      <edge source="Jacques de Larosière" target="Commanauté" id="255" />
+      <edge source="Jacques de Larosière" target="State" id="256" />
+      <edge source="Jacques de Larosière" target="the Federal Reserve System" id="257" />
+      <edge source="Jacques de Larosière" target="this Committee of Governors" id="258" />
+      <edge source="Jacques de Larosière" target="the Banque de France" id="259" />
+      <edge source="Jacques de Larosière" target="the Ministry of Finance" id="260" />
+      <edge source="Jacques de Larosière" target="Treasury" id="261" />
+      <edge source="Jacques de Larosière" target="ERM" id="262" />
+      <edge source="Jacques de Larosière" target="the Council of Ministers if the Council of Ministers" id="263" />
+      <edge source="Jacques de Larosière" target="Governors" id="264" />
+      <edge source="Jacques de Larosière" target="EMS" id="265" />
+      <edge source="Jacques de Larosière" target="Rapporteurs" id="266" />
+      <edge source="Jacques de Larosière" target="ERF" id="267" />
+      <edge source="Jacques de Larosière" target="EMS ERM" id="268" />
+      <edge source="Jacques de Larosière" target="Alexandre" id="269" />
+      <edge source="Jacques de Larosière" target="ECU" id="270" />
+      <edge source="Jacques de Larosière" target="Stage 2" id="271" />
+      <edge source="Jacques de Larosière" target="the Board of this federal system" id="272" />
+      <edge source="Jacques de Larosière" target="Board" id="273" />
+      <edge source="Jacques de Larosière" target="European Council" id="274" />
+      <edge source="Jacques de Larosière" target="Ministers" id="275" />
+      <edge source="Erik Hoffmeyer" target="Padoa-Schioppa" id="276" />
+      <edge source="Erik Hoffmeyer" target="State" id="277" />
+      <edge source="Erik Hoffmeyer" target="ERF" id="278" />
+      <edge source="Erik Hoffmeyer" target="this Committee of central bank Governors" id="279" />
+      <edge source="Erik Hoffmeyer" target="Treaty" id="280" />
+      <edge source="Erik Hoffmeyer" target="the Committee on p.2" id="281" />
+      <edge source="Erik Hoffmeyer" target="p.6 the Committee" id="282" />
+      <edge source="Erik Hoffmeyer" target="Duisenberg" id="283" />
+      <edge source="Erik Hoffmeyer" target="ECU" id="284" />
+      <edge source="Erik Hoffmeyer" target="ECOFIN" id="285" />
+      <edge source="Erik Hoffmeyer" target="communiqués" id="286" />
+      <edge source="Demetrios Chalikias" target="ERM" id="287" />
+      <edge source="Niels Thygesen" target="the central bank governing board" id="288" />
+      <edge source="Niels Thygesen" target="Rapporteurs" id="289" />
+      <edge source="Niels Thygesen" target="the Bank of England" id="290" />
+      <edge source="Niels Thygesen" target="ECU" id="291" />
+      <edge source="Niels Thygesen" target="EMS" id="292" />
+      <edge source="EMS" target="Jean Godeaux" id="293" />
+      <edge source="EMS" target="Alexandre Lamfalussy" id="294" />
+      <edge source="EMS" target="Pierre Jaans" id="295" />
+      <edge source="State" target="Alexandre Lamfalussy" id="296" />
+      <edge source="State" target="Pierre Jaans" id="297" />
+      <edge source="Jean Godeaux" target="Uncertainties" id="298" />
+      <edge source="Jean Godeaux" target="Eliminate intra-Community" id="299" />
+      <edge source="Jean Godeaux" target="Basle/Nyborg" id="300" />
+      <edge source="Jean Godeaux" target="Karl-Otto Pöhl" id="301" />
+      <edge source="Jean Godeaux" target="European Monetary Fund" id="302" />
+      <edge source="Jean Godeaux" target="the Deutsche Bundesbank" id="303" />
+      <edge source="Jean Godeaux" target="the Bank of England" id="304" />
+      <edge source="Jean Godeaux" target="the Banque de France" id="305" />
+      <edge source="Jean Godeaux" target="Governors" id="306" />
+      <edge source="Jean Godeaux" target="DM" id="307" />
+      <edge source="Alexandre Lamfalussy" target="the Committee of the Governors" id="308" />
+      <edge source="Alexandre Lamfalussy" target="nut" id="309" />
+      <edge source="Alexandre Lamfalussy" target="Reserve Fund" id="310" />
+      <edge source="Alexandre Lamfalussy" target="Scenario A" id="311" />
+      <edge source="Alexandre Lamfalussy" target="the Reserve Fund" id="312" />
+      <edge source="Alexandre Lamfalussy" target="the EEC Governors" id="313" />
+      <edge source="Alexandre Lamfalussy" target="Treaty" id="314" />
+      <edge source="Alexandre Lamfalussy" target="Governors" id="315" />
+      <edge source="Alexandre Lamfalussy" target="Directive" id="316" />
+      <edge source="Alexandre Lamfalussy" target="this Committee of Governors" id="317" />
+      <edge source="Basle/Nyborg" target="Pierre Jaans" id="318" />
+      <edge source="Pierre Jaans" target="The European Council" id="319" />
+      <edge source="Pierre Jaans" target="Committee of Governors" id="320" />
+      <edge source="Pierre Jaans" target="Convergence Directive" id="321" />
+      <edge source="Pierre Jaans" target="the 1974 Directive" id="322" />
+      <edge source="Pierre Jaans" target="Directives" id="323" />
+      <edge source="Pierre Jaans" target="Parliament" id="324" />
+      <edge source="Pierre Jaans" target="ECU" id="325" />
+      <edge source="Pierre Jaans" target="the Giscard/Schmidt Committee" id="326" />
+      <edge source="Treaty" target="Frans Andriessen" id="327" />
+      <edge source="Frans Andriessen" target="Secretariat" id="328" />
     </edges>
   </graph>
 </gexf>
