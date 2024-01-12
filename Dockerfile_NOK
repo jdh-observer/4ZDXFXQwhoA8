@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.10
 # config
 RUN mkdir -p /var/www \
     && apt-get update \
@@ -7,6 +7,8 @@ RUN mkdir -p /var/www \
         python-dev \
         git \
         python3-pip \
+        # dependancy for tomotopy
+        install libeigen3-dev \
     && pip3 install -U pip
 
 ENV SPACY_VERSION   3.5.0
