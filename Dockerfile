@@ -9,7 +9,7 @@ RUN mkdir -p /var/www \
         python3-pip \
     && pip3 install -U pip
 
-ENV SPACY_VERSION    2.3.2
+ENV SPACY_VERSION   3.5.0
 
 # spacy
 RUN \
