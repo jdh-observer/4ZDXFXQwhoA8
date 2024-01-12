@@ -1,0 +1,41 @@
+notebook_path: delors_anonymised.ipynb
+CHECK RESSOURCES
+ file script/OCR_IMAGES/8.pdf is not called
+ file script/OCR_IMAGES/OCR_pdfs.py is not called
+ file script/OCR_IMAGES/6.pdf is not called
+ file script/OCR_IMAGES/7.pdf is not called
+ file script/OCR_IMAGES/5.pdf is not called
+ file script/OCR_IMAGES/4.pdf is not called
+ file script/OCR_IMAGES/1.pdf is not called
+ file script/OCR_IMAGES/3.pdf is not called
+ file script/OCR_IMAGES/2.pdf is not called
+ file script/OCR_IMAGES/done/8.txt is not called
+ file script/OCR_IMAGES/done/5.txt is not called
+ file script/OCR_IMAGES/done/4.txt is not called
+ file script/OCR_IMAGES/done/6.txt is not called
+ file script/OCR_IMAGES/done/7.txt is not called
+ file script/OCR_IMAGES/done/3.txt is not called
+ file script/OCR_IMAGES/done/2.txt is not called
+ file script/OCR_IMAGES/done/1.txt is not called
+ file script/topic_model/glda_vis.html is not called
+ file script/topic_model/gLDA_mallet_Coherence Score.png is not called
+ file script/topic_model/gLDA_mallet_UMass Score.png is not called
+ file script/networks/persons_cleaned_edges.csv is not called
+ file script/networks/cross_mentions.gexf is not called
+ file script/networks/adj.csv is not called
+ file script/networks/graph_PERSON_data.csv is not called
+ file script/networks/person_clean.csv is not called
+CHECK URL
+URL: https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/ is valid: False
+URL: https://creativecommons.org/licenses/by/4.0/ is valid: True
+URL: https://www.ecb.europa.eu/ecb/access_to_documents/archives/delors/html/index.en.html). is valid: False
+URL: https://www.ecb.europa.eu/ecb/access_to_documents/archives/delors/documents/shared/data/ecb.dr.delors880916_TranscriptionFirstMeeting.en.pdf?5d01ca39f8b12f73e7e476eb5986518a is valid: True
+URL: https://www.ecb.europa.eu/ecb/access_to_documents/archives/delors/documents/shared/data/ecb.dr.delors881108_HandwrittenMinutesThirdMeeting.en.pdf?a673cf3af794467b87b0a7ecaa293877 is valid: True
+URL: https://www.ecb.europa.eu/ecb/access_to_documents/archives/delors/documents/shared/data/ecb.dr.delors881110_TranscriptionThirdMeeting.en.pdf?bfd24e5eb630992f8a08521b3478b6ed is valid: True
+URL: https://www.ecb.europa.eu/ecb/access_to_documents/archives/delors/documents/shared/data/ecb.dr.delors881110_TranscriptionThirdMeeting.en.pdf?bfd24e5eb630992f8a08521b3478b6ed is valid: True
+URL: https://spacy.io/usage/linguistic-features is valid: True
+CHECK HTML
+found in the cell: [![cc-by](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) 
+©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
+
+found in the cell: <div class="cite2c-biblio"></div><div class="cite2c-biblio"></div><div class="cite2c-biblio"></div>
