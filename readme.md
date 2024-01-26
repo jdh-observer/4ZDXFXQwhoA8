@@ -1,7 +1,7 @@
 # Economic union in the debates on the creation of the euro: new evidence from the tapes of the Delors Committee meetings
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://jdh-binder.curvenote.dev/services/binder/v2/gh/jdh-observer/4ZDXFXQwhoA8/main?filepath=delors_anonymised.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://jdh-binder.curvenote.dev/services/binder/v2/gh/jdh-observer/4ZDXFXQwhoA8/main?filepath=article.ipynb)
 
 
 
