@@ -12,35 +12,30 @@ jupyter:
     name: python3
 ---
 
-```python
-!python --version
-```
-
-```python
-!pip show spacy
-```
-
-```python
-!pip show gensim
-```
-
 <!-- #region citation-manager={"citations": {"": []}} tags=["title"] -->
 # Economic union in the debates on the creation of the euro: new evidence from the tapes of the Delors Committee meetings
 <!-- #endregion -->
 
+<!-- #region tags=["contributor"] -->
+### Emmanuel  Mourlon-Druol [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5560-4333)
+European University Institute
+<!-- #endregion -->
+
+<!-- #region tags=["contributor"] -->
+### Enrico Bergamini [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-8930-6780)
+University of Turin - Department of Economics and Statistics “Cognetti de Martiis”
+<!-- #endregion -->
+
 <!-- #region tags=["copyright"] -->
 [![cc-by](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) 
-©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
+© Emmanuel Mourlon-Druol - Enrico Bergamini. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- #endregion -->
 
-<!-- #region tags=["cover"] -->
-NO COVER
-<!-- #endregion -->
-
-<!-- #region tags=["disclaimer"] -->
- 
-<!-- #endregion -->
+```python tags=["cover"]
+from IPython.display import Image, display
+display(Image("./media/cover.jpg"))
+```
 
 <!-- #region tags=["acknowledgements"] -->
 The authors would like to thank Mathias Weber and Ross Higgins from the ECB Archives for their invaluable help, as well as the participants of the Workshop “Digital Methods in History and Economics” organised by the University of Hamburg in October 2021 and Frédéric Clavert for their comments on earlier drafts of this paper. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 716849)
