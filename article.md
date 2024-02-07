@@ -6,14 +6,14 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.14.4
+      jupytext_version: 1.16.1
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
     name: python3
 ---
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["title"] -->
+<!-- #region tags=["title"] -->
 # Economic union in the debates on the creation of the euro: new evidence from the tapes of the Delors Committee meetings
 <!-- #endregion -->
 
@@ -1335,9 +1335,11 @@ Finally, we hope that this article provides a methodological example of the comb
 
 <!-- #endregion -->
 
+<!-- #region tags=["hidden"] -->
 ## References
+<!-- #endregion -->
 
-<!-- #region tags=["bibliography"] -->
+<!-- #region tags=["hidden"] -->
 <div class="cite2c-biblio"></div><div class="cite2c-biblio"></div><div class="cite2c-biblio"></div>
 <!-- #endregion -->
 
