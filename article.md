@@ -24,7 +24,7 @@ European University Institute
 
 <!-- #region tags=["contributor"] -->
 ### Enrico Bergamini [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-8930-6780)
-University of Turin - Department of Economics and Statistics “Cognetti de Martiis”
+University of Turin - Department of Economics and Statistics “Cognetti de Martiis”. Collegio Carlo Alberto.
 <!-- #endregion -->
 
 <!-- #region tags=["copyright"] -->
@@ -59,23 +59,23 @@ A well-established criticism against Economic and Monetary Union (EMU) as create
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-Among the debates that took place in the second half of the 1980s, the work of the so-called Delors Committee was instrumental in the making of EMU. The June 1988 European Council held in Hannover mandated a Committee chaired by President of the European Commission Jacques Delors to examine and propose concrete stages for the creation of a European Economic and Monetary Union (EMU). The Committee was composed of the twelve central bank governors of the European Economic Community (EEC) member states, the Commissioner in charge of agriculture Frans Andriessen, the General Manager of the Bank for International Settlements (BIS) Alexandre Lamfalussy, and the former Spanish finance minister Miguel Boyer. Two reporters assisted the work of the Committee, Gunter Baer (BIS) and Tommaso Padoa-Schioppa (Banca d’Italia) <cite data-cite="14286898/XBZ8M5FL"></cite>. The Committee met eight times, from September 1988 until April 1989. The Delors Committee published its final report on how to reach EMU, known as the Delors Report, in April 1989. The Delors Report made its way into the Maastricht Treaty with only a few minor changes. For more details on the members of the Delors Committee, see <cite data-cite="14286898/Y49HD6AV"></cite> (pp.463-475). 
+Among the debates that took place in the second half of the 1980s, the work of the so-called Delors Committee was instrumental in the making of EMU. The June 1988 European Council held in Hannover mandated a Committee chaired by President of the European Commission Jacques Delors to examine and propose concrete stages for the creation of a European Economic and Monetary Union (EMU). The Committee was composed of the twelve central bank governors of the European Economic Community (EEC) member states, the Commissioner in charge of agriculture Frans Andriessen, the General Manager of the Bank for International Settlements (BIS) Alexandre Lamfalussy, and the former Spanish finance minister Miguel Boyer. Two rapporteurs assisted the work of the Committee, Gunter Baer (BIS) and Tommaso Padoa-Schioppa (Banca d’Italia) (<cite data-cite="14286898/XBZ8M5FL"></cite>). The Committee met eight times, from September 1988 until April 1989. The Delors Committee published its final report on how to reach EMU, known as the Delors Report, in April 1989. The Delors Report made its way into the Maastricht Treaty with only a few minor changes. (For more details on the work and members of the Delors Committee, see <cite data-cite="14286898/WIFIUGXD"></cite>, pp.463-475.) 
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-In this contribution, we examine closely the debates that took place in the Delors Committee, in order to better understand how its members reflected on ”economic union”.  With the benefit of hindsight, the Delors Committee and its Report have taken centre stage in analyses of the making of EMU, but the contemporaries’ impression was not that of having made history. It is famously recounted that when invited to write a paper in the Princeton International Economics Series, one of the rapporteurs, Padoa-Schioppa, turned down the offer as he doubted the report would become important <cite data-cite="14286898/WIFIUGXD"></cite>. However the Delors Report, for its greatest parts, made it through to the Maastricht Treaty; and its members — central bank governors and three experts — were central actors in the process. 
+In this contribution, we examine closely the debates that took place in the Delors Committee, in order to better understand how its members reflected on ”economic union”.  With the benefit of hindsight, the Delors Committee and its Report have taken centre stage in analyses of the making of EMU, but the contemporaries’ impression was not that of having made history. It is famously recounted that when invited to write a paper in the Princeton International Economics Series, one of the rapporteurs, Padoa-Schioppa, turned down the offer as he doubted the report would become important (<cite data-cite="14286898/WIFIUGXD"></cite>, p. 211). However the Delors Report, for its greatest parts, made it through to the Maastricht Treaty; and its members — central bank governors and three experts — were central actors in the process. 
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-Being such an important milestone on the road to Maastricht, the work of the Delors Committee is frequently analysed through the lens of how the Committee members managed to find an agreement <cite data-cite="14286898/YZW4P3TU"></cite>. Central bankers were perceived as reluctant to EMU. In particular, the presence of two central bankers considered to be sceptical towards EMU, the president of the Bundesbank Karl-Otto Pöhl and the governor of the Bank of England Robin Leigh-Pemberton, further reinforces this view. Verdun examined whether the adoption of EMU in 1992 was rooted in consensus among monetary experts, specifically looking at the Delors Committee, and concluding that this Committee formed an epistemic community <cite data-cite="14286898/ESREKQ9Y"></cite>. Historians also mostly looked into this question from the same angle (<cite data-cite="14286898/88PNZ7P8"></cite>, <cite data-cite="14286898/PZ7Y5QYP"></cite>, <cite data-cite="14286898/PCBQZZ9M"></cite>, <cite data-cite="14286898/M7TTE5P4"></cite>, <cite data-cite="14286898/4AIUVZB6"></cite>, <cite data-cite="14286898/F4JPP4FL"></cite>). Harold James analysed how the members of the Delors Committee worked to find an agreement on the Report, making use of the records of the meetings, supported by some references to the tapes, in his analysis <cite data-cite="14286898/WIFIUGXD"></cite>). 
+Being such an important milestone on the road to Maastricht, the work of the Delors Committee is frequently analysed through the lens of how the Committee members managed to find an agreement (<cite data-cite="14286898/YZW4P3TU"></cite>). Central bankers were perceived as reluctant to EMU. In particular, the presence of two central bankers considered to be sceptical towards EMU, the president of the Bundesbank Karl-Otto Pöhl and the governor of the Bank of England Robin Leigh-Pemberton, further reinforces this view. Verdun examined whether the adoption of EMU in 1992 was rooted in consensus among monetary experts, specifically looking at the Delors Committee, and concluding that this Committee formed an epistemic community (<cite data-cite="14286898/ESREKQ9Y"></cite>). Historians also mostly looked into this question from the same angle (<cite data-cite="14286898/88PNZ7P8"></cite>, <cite data-cite="14286898/PZ7Y5QYP"></cite>, <cite data-cite="14286898/PCBQZZ9M"></cite>, <cite data-cite="14286898/M7TTE5P4"></cite>, <cite data-cite="14286898/4AIUVZB6"></cite>, <cite data-cite="14286898/F4JPP4FL"></cite>). Harold James analysed how the members of the Delors Committee worked to find an agreement on the Report, making use of the records of the meetings, supported by some references to the tapes, in his analysis (<cite data-cite="14286898/WIFIUGXD"></cite>). 
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-By contrast, this article aims to analyse what the Committee actually discussed, rather than what the Committee published (the Delors Report). Our question is not so much “why EMU happened?” but is rather ”why has the Maastricht construct been so lopsided?” We now know why EMU happened; but the literature still overlooks why and how the ‘E’ of EMU has been neglected, or at least did not lead to a ‘symmetrical’ EMU. A closer analysis of the discussions that took place within the Committee can contribute to answer that question. Unusually for such gatherings, the meetings of the Delors Committee have been recorded on tape (47 hours of audio), and partly transcribed word-for-word (about 90,000 words). The article uses these primary sources to analyse the discussions of the Committee, alongside the detailed inventory of the tapes, the rest of the archives of Committee, and the handwritten notes taken during the meetings by the two rapporteurs, Baer and Padoa-Schioppa <cite data-cite="14286898/XBZ8M5FL"></cite>. The article uses mixed methods, that is, a quantitative text analysis based on the meetings’ transcripts, alongside a qualitative analysis of the Committee’s discussions both transcribed and in the recorded tapes. 
+By contrast, this article aims to analyse what the Committee actually discussed, rather than what the Committee published (the Delors Report). Our question is not so much “why EMU happened?” but is rather ”why has the Maastricht construct been so lopsided?” We now know why EMU happened; but the literature still overlooks why and how the ‘E’ of EMU has been neglected, or at least did not lead to a ‘symmetrical’ EMU. A closer analysis of the discussions that took place within the Committee can contribute to answer that question. Unusually for such gatherings, the meetings of the Delors Committee have been recorded on tape (47 hours of audio), and partly transcribed word-for-word (about 90,000 words). The article uses these primary sources to analyse the discussions of the Committee, alongside the detailed inventory of the tapes, the rest of the archives of Committee, and the handwritten notes taken during the meetings by the two rapporteurs, Baer and Padoa-Schioppa (<cite data-cite="14286898/XBZ8M5FL"></cite>). The article uses mixed methods, that is, a quantitative text analysis based on the meetings’ transcripts, alongside a qualitative analysis of the Committee’s discussions both transcribed and in the recorded tapes. 
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-Based on such a primary source, how can one evidence what the Delors Committee discussions were about? Reading the transcripts and listening to the tapes leaves little doubt about the fact that the Delors Committee members did alert multiple times about the consequences that irrevocably fixing exchange rates would have for the economic policy of the member states, and that the economic dimension of monetary union should be developed as the EEC/EU progresses towards the single currency. However, how can one translate this into historical evidence? Given the type of primary sources we used (tapes of the meeting, transcription of the records, preparatory notes, handwritten notes of the meetings) a mixed methods approach seemed to us the most appropriate. Unlike in the case of the Nixon tapes, for instance, we can make use of the extensive word-for-word transcription of the debates <cite data-cite="14286898/49X25EH2"></cite>. Quotations from the transcript, alone, would not convey the quantitative extent to which some topics were raised, and by whom. Conversely, numerical additions alone of what topic was raised when and by whom would fail to contextualise the quality and value of the issues at stake.
+Based on such a primary source, how can one evidence what the Delors Committee discussions were about? Reading the transcripts and listening to the tapes leaves little doubt about the fact that the Delors Committee members did alert multiple times about the consequences that irrevocably fixing exchange rates would have for the economic policy of the member states, and that the economic dimension of monetary union should be developed as the EEC/EU progresses towards the single currency. However, how can one translate this into historical evidence? Given the type of primary sources we used (tapes of the meeting, transcription of the records, preparatory notes, handwritten notes of the meetings) a mixed methods approach seemed to us the most appropriate. Unlike in the case of the Nixon tapes, for instance, we can make use of the extensive word-for-word transcription of the debates (<cite data-cite="14286898/49X25EH2"></cite>). Quotations from the transcript, alone, would not convey the quantitative extent to which some topics were raised, and by whom. Conversely, numerical additions alone of what topic was raised when and by whom would fail to contextualise the quality and value of the issues at stake.
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
@@ -132,7 +132,7 @@ These references to the tapes allowed us to infer information about speaking tim
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-While being a novel and rich source of information, these transcripts are indeed not complete. How can we evaluate what is missing and what has been incompletely transcribed? The ECB archivist Matthias Weber established a detailed inventory at intervention level of the tapes. <cite data-cite="14286898/XBZ8M5FL"></cite>
+While being a novel and rich source of information, these transcripts are indeed not complete. How can we evaluate what is missing and what has been incompletely transcribed? The ECB archivist Matthias Weber established a detailed inventory at intervention level of the tapes (<cite data-cite="14286898/XBZ8M5FL"></cite>).
 
 This means that each line of the 157 pages long inventory indicates when a member starts speaking and when he stops (by every second). In particular, Weber identified the transcription of the tape under three categories: complete, not included and abridged. The category abridged means that the intervention was not included in full, only in part, but it remained a word by word transcription. Based on this data, we have calculated that 10 hours and 30 minutes of recording have been transcribed in full, 2 hours and 15 minutes have been abridged in the transcription and 9 hours and 15 minutes are not included.
 <!-- #endregion -->
@@ -173,7 +173,7 @@ import gensim
 
 import tomotopy as tp
 
-#! python3 -m spacy download en_core_web_sm
+! python3 -m spacy download en_core_web_sm
 nlp = spacy.load('en_core_web_sm')
 ```
 
@@ -242,14 +242,21 @@ missing_transcriptions = pd.pivot_table(df,
                           values = 'duration',
                           aggfunc='sum',
                          ).round(0).fillna(0).reset_index().set_index('Speaker')
-
 missing_transcriptions.loc['Total'] = missing_transcriptions.sum(numeric_only=True, axis=0)
 
-for col in missing_transcriptions.columns:
-    missing_transcriptions[col] = missing_transcriptions[col].apply(lambda x: strftime("%H:%M:%S", gmtime(x)))
+def seconds_to_time(seconds):
+    # Calculate hours, minutes, and seconds
+    hours, remainder = divmod(seconds, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    # Format the time
+    formatted_time = "{:02}:{:02}:{:02}".format(int(hours), int(minutes), int(seconds))
+    return formatted_time 
+    
+missing_transcriptions = missing_transcriptions.applymap(seconds_to_time)
+
 ```
 
-```python jdh={"object": {"source": ["Missing transcriptions"]}} tags=["table-1"]
+```python jdh={"object": {"source": ["Missing transcriptions in the records of meetings of the Delors Committee"]}} tags=["table-1"]
 missing_transcriptions
 ```
 
@@ -345,7 +352,7 @@ avg_intervent = avg_intervent.reset_index().reset_index(drop=True)
 Having the detailed speaking time of each Delors Committee member allows us to uncover some of the dynamics of the Committee. Table 2 provides the ranking of the Delors Committee members by speaking time.
 <!-- #endregion -->
 
-```python jdh={"object": {"source": ["Speaker overall"]}} tags=["table-2"]
+```python jdh={"object": {"source": ["Delors Committee members\u2019 overall speaking time"]}} tags=["table-2"]
 speaker_overall
 ```
 
@@ -365,13 +372,13 @@ Indeed, as we will show in greater detail below through the close-reading analys
 The calculation of the number of interventions and the average length of interventions confirms some patterns (see Table 3). With only one brief exception for Padoa-Schioppa in the third meeting, we can see that the rapporteurs’ interventions are strictly confined to the last meeting, which focused on the finalisation of the drafting of the Report. The average speaking time in this last meeting also highlights that all members intervened in the discussion, without significant discrepancies such as those observed in the overall speaking time. For instance, in this last meeting, Jaans, Hoffmeyer, Godeaux and Rubio all spoke on average longer than Delors, Pöhl and de Larosière. Overall, the relative shortness of average interventions indicates the flow of the debates as a genuine discussion, alternating longer presentations and multiple interjections.
 <!-- #endregion -->
 
-```python jdh={"object": {"source": ["Average length of intervention"]}} tags=["table-3"]
+```python jdh={"object": {"source": ["Average length of intervention per speaker in the meetings of the Delors Committee"]}} tags=["table-3"]
 avg_intervent.set_index('Speaker')
 ```
 
 <!-- #region tags=["narrative"] -->
 While still partial, we now have a better overall view of who spoke when and for how long. From this information, we are confident that the data source we have constructed, despite not being the full transcript, reflects the core of the discussion. Having a word-by-word transcript of substantial size of what are the most important part of the tapes allows us to use natural language processing tools to better identify the topics raised, while still being able to qualitatively interpret each individual intervention.
-In the next Section, we employ Named Entity Recognition (NER) in order to quantify cross-references between speakers, as well as references to institutions. In turn, we build networks of speaker-speaker interaction and speaker-institution interaction. In the next section we detail the analysis by exploiting the digitized and clean text of the interventions with a machine learning approach, and infer latent topics present in the corpus.
+In the next section, we employ Named Entity Recognition (NER) in order to quantify cross-references between speakers, as well as references to institutions. In turn, we build networks of speaker-speaker interaction and speaker-institution interaction. Finally, we detail the analysis by exploiting the digitized and clean text of the interventions with a machine learning approach, and infer latent topics present in the corpus.
 
 <!-- #endregion -->
 
@@ -666,7 +673,7 @@ for i in range(1,8+1):
         print(i)
 ```
 
-```python jdh={"object": {"source": ["By meeting bigrams"]}} tags=["table-4"]
+```python jdh={"object": {"source": ["Bigrams per meeting of the Delors Committee transcripts"]}} tags=["table-4"]
 by_meeting_bigrams
 ```
 
@@ -708,7 +715,7 @@ for i in speakers:
         
 ```
 
-```python jdh={"object": {"source": ["By speaker bigrams"]}} tags=["table-5"]
+```python jdh={"object": {"source": ["Bigrams per speaker of the Delors Committee transcripts"]}} tags=["table-5"]
 by_speaker_bigrams
 ```
 
@@ -733,7 +740,7 @@ We choose to implement a Latent Dirichlet Allocation unsupervised model, in orde
 Hence, we aim at leaving flexibility to the model, while at the same time nudging it to recognize specific topics without resorting to a rigid set of keywords matches. For these reasons, we resort to the guided-LDA model, an extension of the base LDA algorithm that allows us to insert lexical priors into the model. These lexical priors are a set of pre-determined keywords describing topics that, a-priori, we believed were present in the corpus. We defined the prior topics based on the close-reading of the documents and are presented in Table 6.  The topics seeded into the models as priors, nudge it to recognise them and help us to cluster more efficiently the documents into specific topics. At the same time, contrary to keywords, we still exploit a stochastic component: the model might converge into recognizing topics that are not in our list of priors, or into not recognizing seeded topics. 
 <!-- #endregion -->
 
-<!-- #region jdh={"object": {"source": ["Composition of the dataset per meeting"]}} tags=["table-6"] -->
+<!-- #region jdh={"object": {"source": ["Seeded topics in the guided-LDA model"]}} tags=["table-6"] -->
 
 |Topic|Seeded words|
 |:----|:----|
@@ -754,7 +761,7 @@ Hence, we aim at leaving flexibility to the model, while at the same time nudgin
 |14 budget deficit|market, market_mechanism, constraint, borrow, limit, gdp, savings, binding, size, discipline|
 <!-- #endregion -->
 
-<!-- #region jdh={"object": {"source": ["Composition of the dataset per meeting"]}} tags=["table-7"] -->
+<!-- #region jdh={"object": {"source": ["Composition of the dataset per meeting of the Delors Committee"]}} tags=["table-7"] -->
 
 
 |Meeting number|Date of meeting|Number of words of the transcript|Number of pages|
@@ -1126,7 +1133,7 @@ tlabel = pd.read_excel('./script/topics_manually_labelled.xlsx',
                       )
 ```
 
-```python jdh={"object": {"source": ["Topics labelling"]}} tags=["table-8", "data-table"]
+```python jdh={"object": {"source": ["Results of the topic modeling and definition of the two sets of labels"]}} tags=["table-8", "data-table"]
 tlabel
 ```
 
@@ -1135,8 +1142,9 @@ Finding the coherent theme that unifies the topics is the most difficult interpr
 <!-- #endregion -->
 
 <!-- #region jdh={"object": {"source": ["Analytical presentation of the gLDA topics"]}} tags=["table-9"] -->
-|Topic 0|EMU design|
+| | |
 |:----|:----|
+|Topic 0|EMU design|
 |Topic 1|Economic union|
 |Topic 2|Monetary policy|
 |Topic 3|ECU|
@@ -1174,7 +1182,7 @@ The issue of the difficulty of defining economic union, especially in contrast t
 In order to provide a further check on the gLDA topics, we compare and contrast the gLDA findings with the subjective summaries of the discussions that the two rapporteurs of the Committee drafted after each meeting except the last two. These documents were written for the purpose of having a clear summarised record of the main topics discussed, agreements reached, and issues to settle as the work of the Committee progressed. These summaries therefore represent a detailed and reliable track-record of what was discussed in the Committee (unfortunately, the summaries of the last three meetings are missing. We do not know whether this means that the last three meetings have not been the subject of a summary, or whether this summary has disappeared) However, the former is more likely than the latter, since the personal archives of the two rapporteurs contain the same summaries. Table 5 below systematises the summaries provided by the rapporteurs into the meetings and topics. (all text is original quotations from the summaries, in order to respect the original phrasing, conceptualising and presentation of the rapporteurs; the summaries are available in ECB Archives, and HAEU) The table reports the themes, as presented and defined by the rapporteurs, by quoting directly from their summaries. This comparison confirms that the topics raised correspond indeed to the distribution of gLDA topics in the meetings presented in Table 8.
 <!-- #endregion -->
 
-<!-- #region jdh={"object": {"source": ["Summaries of the meetings provided by the rapporteurs"]}} tags=["table-10"] -->
+<!-- #region jdh={"object": {"source": ["Summaries of the meetings provided by the rapporteurs of the Delors Committee"]}} tags=["table-10"] -->
 |Meeting|Themes|Sub-themes|Corresponding LDA topic|
 |:----|:----|:----|:----|
 |1|“Organisational aspects”|n/a|Topics 0 and 5|
@@ -1250,7 +1258,7 @@ d_topic_person_w = pd.pivot_table(d,
                                  ).fillna(0).round(decimals=1)
 ```
 
-```python jdh={"object": {"source": ["Topics distribution"]}} tags=["table-11"]
+```python jdh={"object": {"source": ["gLDA topics distribution per meeting as percentage of the total"]}} tags=["table-11"]
 d_topic_meeting_perc
 ```
 
@@ -1258,7 +1266,7 @@ d_topic_meeting_perc
 We can now compare and contrast the three elements: the topics identified through the gLDA analysis, the repartition of the gLDA topics by meeting, and the analysis of these meetings by the rapporteurs. The gLDA analysis therefore logically confirms that more time was spent in the discussions on the topics of substance related to EMU design and economic union (topics 0 and 1) rather than the four other topics. The overview provided in Table 5 highlights that topics are well distributed during individual meetings. Most importantly, as reflected in the summaries of the rapporteurs, topic 1 on economic union was extensively discussed during the second meeting devoted to the implications of locking exchange rate fluctuations (for which we have the second largest transcript with ca. 17000 words), and topic 1 emerges as the most discussed topic for the second meeting in the gLDA. Apart from a small predominance of Topic 0, other topics are fairly evenly distributed for the third meeting, but the transcript is relatively short (about 9000 words). The fourth meeting focused on discussing the skeleton report, which explains why two topics, EMU design and economic union stand out. The fifth meeting, for which we have the largest transcript (ca. 21000 words) focused on Chapter III of the Report and the proposal for a European Reserve Fund, and hence topic 0 dominates the discussion. The last two meetings dealt with the skeleton report, which explains that topics are again fairly evenly distributed, apart from the salience of topic 0 in the last meeting.
 <!-- #endregion -->
 
-```python jdh={"object": {"source": ["Number of sentences for each topics per person"]}} tags=["table-12"]
+```python jdh={"object": {"source": ["Number of sentences for each topic per speaker in the Delors Committee meetings"]}} tags=["table-12"]
 d_topic_person_w
 # Number of sentences for each topics per person
 ```
@@ -1272,11 +1280,11 @@ One important topic is absent from the gLDA but important the design of EMU, nam
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-The only intervention explicitly mentioning the topic is that of Duisenberg, “I would also want to add in this list of guiding principles, (…) that this federation of central banks or central bank should be charged with banking supervision at the Community level” (ECB Archives, DelC 2.4, CSEMU: meeting  on 13 December 1988. See also the archives of the BSSC in ECB Archives, CoG 6, Banking supervisory issues and expert groups). The real substantial discussion happened elsewhere, in the Banking Supervisory Sub-Committee (BSSC) of the EEC Committee of Governors, that the Delors Report suggested creating, and that first met in March 1989 (In Stage 1, the Delors Report recommended the creation of an “advisory committee (…) on matters of common interest in the field of banking supervision policy.” (Committee for the Study of Economic and Monetary Union, Report on Economic and Monetary Union in the European Community, 17 April 1989. See also <cite data-cite="14286898/WIFIUGXD"></cite>). The whole subject of banking regulation and supervision was then delegated for discussion within the BSSC that gathered high-level representatives of the supervisory authorities of the EEC member states. 
+The only intervention explicitly mentioning the topic is that of Duisenberg, “I would also want to add in this list of guiding principles, (…) that this federation of central banks or central bank should be charged with banking supervision at the Community level” (ECB Archives, DelC 2.4, CSEMU: meeting  on 13 December 1988. See also the archives of the BSSC in ECB Archives, CoG 6, Banking supervisory issues and expert groups). The real substantial discussion happened elsewhere, in the Banking Supervisory Sub-Committee (BSSC) of the EEC Committee of Governors, that the Delors Report suggested creating, and that first met in March 1989. In Stage 1, the Delors Report recommended the creation of an “advisory committee (…) on matters of common interest in the field of banking supervision policy.” (Committee for the Study of Economic and Monetary Union, Report on Economic and Monetary Union in the European Community, 17 April 1989. See also <cite data-cite="14286898/WIFIUGXD"></cite>, p. 313-317). The whole subject of banking regulation and supervision was then delegated for discussion within the BSSC that gathered high-level representatives of the supervisory authorities of the EEC member states. 
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
-The BSSC published a report on banking supervision in the European System of Central Banks (ESCB) and provided advice to the Committee of Governors, which then fed into the CoG’s contribution to the Intergovernmental Conference for the Maastricht Treaty  In that sense, the fact that LDA did not pick up banking regulation and supervision is revealing of the fact that it was, in a large part, overlooked and underestimated by the members of the Committee (ECB Archives, CoG 6.2/3.6, Quinn to Pöhl, Supervisory Sub-Committee: The role of the ESCB in banking supervision, 9 May 1990).
+The BSSC published a report on banking supervision in the European System of Central Banks (ESCB) and provided advice to the Committee of Governors, which then fed into the CoG’s contribution to the Intergovernmental Conference for the Maastricht Treaty. In that sense, the fact that LDA did not pick up banking regulation and supervision is revealing of the fact that it was, in a large part, overlooked and perhaps underestimated by the members of the Committee (ECB Archives, CoG 6.2/3.6, Quinn to Pöhl, Supervisory Sub-Committee: The role of the ESCB in banking supervision, 9 May 1990).
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
@@ -1330,19 +1338,7 @@ The papers distributed to the Delors Committee were for the most part authored b
 
 <!-- #region tags=["narrative"] -->
 The broad theme of economic union was therefore extensively discussed during the meetings of the Delors Committee. The fact that the centrality of economic union in the discussion of the Committee was not translated into a more concrete outcome in the Report highlights both the difficulties of defining what ‘economic union’ exactly entails and of agreeing on specific measures to implement. The Delors Committee members noted well both aspects. They struggled to define economic union, and they observed – as Delors put it more bluntly – that there were limits to what powers could be transfered to the European, federal level. The inability to have concluded a more balanced agreement between the ‘E’ and the ‘M’ of EMU cannot be blamed on the Delors Committee members for having overlooked the topic. 
-What analysing in detail these transcripts and tapes allow us to observe is that the real ‘dead angle’ of the pre-Maastricht analysis of EMU was banking regulation and supervision. The consensus was that the framework of multiple directives on key subjects was enough. As much as for economic union, policymakers believed that there was no need to move supervisory tasks to the supranational level. Further to the centrality of economic union in the discussions of the Delors Committee, this article showed that the Delors Committee’s dynamics did not just revolve around the trio composed by the three most famous actors, that is, Delors, Pöhl and de Larosière. Not only were the three experts (Lamfalussy, Thygesen and Boyer) active participants in the debates, but Doyle, who advocated and spoke at length for regional policy. 
-Finally, we hope that this article provides a methodological example of the combination of multiple types of sources (tapes, transcriptions, handwritten notes) with digital tools and close-reading analysis of the primary sources. As the above analysis showed, digital tools provided a useful support in providing evidence of the presence of economic union-related discussions in the Delors Committee meeting, but these tools also had their limits, and need to be complemented with a qualitative analysis of the sources. Much talk about ‘economic union’ was actually not transcribed, and has been used in this article to restore the richness of the debate.
+What analysing in detail these transcripts and tapes allow us to observe is that the real ‘dead angle’ of the pre-Maastricht analysis of EMU was banking regulation and supervision. The consensus was that the framework of multiple directives on key subjects was enough. As much as for economic union, most policymakers believed that there was no need to move supervisory tasks to the supranational level. Further to the centrality of economic union in the discussions of the Delors Committee, this article showed that the Delors Committee’s dynamics did not just revolve around the trio composed by the three most famous actors, that is, Delors, Pöhl and de Larosière. Not only were the three experts (Lamfalussy, Thygesen and Boyer) active participants in the debates, but so was Doyle, who advocated and spoke at length for regional policy. 
+Finally, we hope that this article provides a methodological example of the combination of multiple types of sources (tapes, transcriptions, handwritten notes) with digital tools as well as distant and close-reading analysis of the primary sources. As the above analysis showed, digital tools provided a useful support in providing evidence of the presence of economic union-related discussions in the Delors Committee meeting, but these tools also have their limits, and need to be complemented with a qualitative analysis of the sources. In the case of the Delors Committee meetings’ tapes, much discussion about ‘economic union’ was actually not transcribed in the records, but could be used here qualitatively in this article to contribute to restore the richness of the debate.
 
 <!-- #endregion -->
-
-<!-- #region tags=["hidden"] -->
-## References
-<!-- #endregion -->
-
-<!-- #region tags=["hidden"] -->
-<div class="cite2c-biblio"></div><div class="cite2c-biblio"></div><div class="cite2c-biblio"></div>
-<!-- #endregion -->
-
-```python
-
-```
